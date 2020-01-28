@@ -1,4 +1,4 @@
 ﻿Hello world
-IT second session lab
+IT first session lab
 welcome to  the lab
-computer science department
+welcome to university
